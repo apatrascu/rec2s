@@ -4,7 +4,7 @@
     "author": "Alecsandru Patrascu <alecsandru.patrascu@gmail.com>",
     "version" : "0.1.0",
     "dependencies": {
-        "express": "2.5.9",
+        "express": ">=3.11.0",
         "request": "2.9.202"
     },
     "engine": "node >= 0.6.0"
